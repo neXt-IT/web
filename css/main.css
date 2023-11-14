@@ -17,6 +17,17 @@ header {
     text-align: center;
 }
 
+.carousel {
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.carousel img {
+    width: 100%;
+    height: auto;
+    display: none;
+}
+
 nav ul {
     list-style-type: none;
     margin: 0;
